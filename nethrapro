@@ -1,0 +1,7 @@
+# Open terminal or command prompt
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+# Copy your portfolio files into this folder
+git add .
+git commit -m "Add portfolio files"
+git push
